@@ -39,7 +39,7 @@ To run the playlist generator the user needs to have an active spotify subscript
 
 4. Open [Web Spotify app](https://open.spotify.com/)
 5. Create a new Playlist
-6. Add the playlist to your profile to make it available for the public
+6. Add the playlist to your profile to make it available for the public (necessary that the code can access the newly created playlist)
 7. Copy/Paste Playlist ID
       - Copy Playlist URL
       - Delete the URL part until and including "/"
