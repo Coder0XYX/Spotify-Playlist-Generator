@@ -6,11 +6,11 @@ Group ID: _TBD_
 
 ## Table of contents
 
-Introduction
-Project Description
-Tutorial
-Repository
-Installations
+- Introduction
+- Project Description
+- Tutorial
+- Repository
+- Installations
 
 
 ## Introduction 
@@ -32,8 +32,8 @@ To run the playlist generator the user needs to have an active spotify subscript
 1. Loging to [spotify developer](https://developer.spotify.com/dashboard/login) or create a new account
 2. Start a new project on the spotify developer platform
 3. Copy/Paste Spotify ID
-      i. ClientID
-      ii. playlistID
+      - ClientID
+      - playlistID
       
 ### Spotify playlist creation
 
@@ -41,39 +41,57 @@ To run the playlist generator the user needs to have an active spotify subscript
 5. Create a new Playlist
 6. Add the playlist to your profile to make it available for the public
 7. Copy/Paste Playlist ID
-      i. Copy Playlist URL
-      ii. Delete the URL part until and including "/"
-      iii. Paste only the Playlist ID behind
+      - Copy Playlist URL
+      - Delete the URL part until and including "/"
+      - Paste only the Playlist ID behind
 
 ### Running the program in python
 
-8. Download the project folder "Playlist Generator" containing the files 10k non-hits and requirements 
+8. Download the project folder "Playlist Generator" containing the files 10k non-hits.py and requirements 
 9. Open the project folder in Visual Studio Code, PyCharm CE or a similar program
 10. Install requirements.txt
 11. Add the key variables which where extracted from the developer project website and the newly generated playlist (previous two sections in the tutorial)
-12. 
+      - clientID = "_Your clientID_"
+      - clientSecret = "_Your clientSecret_"
+      - playlistID = "_Your playlistID_"
+      - scope = "playlist-modify-public"
+12. After completion of steps 1-11 the program and the configuration is all set up and you can _run_ the program in your source-code editor.
+
+## Repository
+
+The repository shows 3 files. The "X" file gives an overall introduction and project description with step-by-step instructions. "10k non-hits.py" contains the code. "requirements.txt" contains X which are required to have running connections between the spotify developer platform, spotify and the source-code editor.
+
+## Installations
+
+The following programs were used to analyse and test the code:
+
+   - [Python 3.10.5](https://www.python.org/downloads/)
+   - [PyCharm CE 2022.1.2](https://www.jetbrains.com/pycharm/download/#section=mac)
+ 
+The following packages and modules are moreover required to run the code:
+
+   - TBD
+   
+The following libraries are relevant to run the code:
+
+   - TBD
+
+Info: In case these packages are not installed yet, you need to write the following commands on your command prompt. If pip is not installed yet, please rund "pyhton get-pip.py" first: 
+
+Reihenfolge anpassen und Ergänzungen vornehmen!!!
+
+   *pip install spotipy or pip3 install spotipy
+   *-m pip install --upgrade pip
+   *pip3 install spotipy --upgrade
+   *pip3 install spotipy_random
+   *python3 -m ensurepip
+   *
+   
+
+We hope that you find our Spotify Playlist Generator usefull and enjoy creating randomized playlists with our tool. Enjoy listening!
 
 
-
-
-
-
-
-bear in mind that users may not be familiar with coding language and hold the process as intuitivily as possible
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-------------------------
 
 Notes to delete at the end of project:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
