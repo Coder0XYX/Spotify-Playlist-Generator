@@ -51,6 +51,9 @@ To run the playlist generator the user needs to have an active spotify subscript
 8. Download the project folder "Playlist Generator" containing the files 10k non-hits.py and requirements 
 9. Open the project folder in Visual Studio Code, PyCharm CE or a similar program
 10. Install requirements.txt
+   - `pip install -r requirements.txt`  
+   - `pip3 install -r requirements.txt`  
+   - `conda install -r requirements.txt` 
 11. Add the key variables which where extracted from the developer project website and the newly generated playlist (previous two sections in the tutorial)
       - clientID = "_Your clientID_"
       - clientSecret = "_Your clientSecret_"
@@ -78,6 +81,8 @@ The following libraries are relevant to run the code:
    - TBD
 
 Info: In case these packages are not installed yet, you need to write the following commands on your command prompt. If pip is not installed yet, please rund "pyhton get-pip.py" first: 
+
+MS: braucht man mMn nicht mher, da oben integriert (Punkt 10)
 
 Reihenfolge anpassen und Ergänzungen vornehmen!!!
 
