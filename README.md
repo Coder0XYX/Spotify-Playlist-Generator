@@ -31,7 +31,8 @@ To run the playlist generator the user needs to have an active spotify subscript
 
 1. Loging to [spotify developer](https://developer.spotify.com/dashboard/login) or create a new account
 2. Start a new project on the spotify developer platform
-3. Copy/Paste Spotify ID
+3. Click on Edit Settings and redirect the URI to: http://localhost:8888/callback
+4. Copy/Paste Spotify ID
       - ClientID
       - playlistID
       
@@ -42,7 +43,7 @@ To run the playlist generator the user needs to have an active spotify subscript
 6. Add the playlist to your profile to make it available for the public (necessary that the code can access the newly created playlist)
 7. Copy/Paste Playlist ID
       - Copy Playlist URL
-      - Delete the URL part until and including "/"
+      - Delete the URL part until and including the last "/"
       - Paste only the Playlist ID behind
 
 ### Running the program in python
