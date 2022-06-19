@@ -80,12 +80,12 @@ Info: In case these packages are not installed yet, you need to write the follow
 
 Reihenfolge anpassen und Ergänzungen vornehmen!!!
 
-   *pip install spotipy or pip3 install spotipy
-   *-m pip install --upgrade pip
-   *pip3 install spotipy --upgrade
-   *pip3 install spotipy_random
-   *python3 -m ensurepip
-   *
+   - `pip install spotipy` or `pip3 install spotipy`  
+   - `-m pip install --upgrade pip` 
+   - `pip3 install spotipy --upgrade`  
+   - `pip3 install spotipy_random` 
+   - `python3 -m ensurepip` 
+   
    
 
 We hope that you find our Spotify Playlist Generator usefull and enjoy creating randomized playlists with our tool. Enjoy listening!
