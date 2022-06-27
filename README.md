@@ -30,18 +30,18 @@ To run the playlist generator the user needs to have an active spotify subscript
 ### Spotify developer project
 
 1. Loging to [spotify developer](https://developer.spotify.com/dashboard/login) or create a new account
-2. Start a new project on the spotify developer platform
+2. Go to dashboard and start a new project by clicking on "create an app" 
 3. Click on Edit Settings and redirect the URI to: http://localhost:8888/callback
-4. Copy/Paste Spotify ID
-      - ClientID
-      - playlistID
+4. Copy/Paste Client ID and Secret somewhere or let the spotify developer website open, while running the code you will be ask to insert the information to
+      - Client ID
+      - Client Secret
       
 ### Spotify playlist creation
 
-4. Open [Web Spotify app](https://open.spotify.com/)
-5. Create a new Playlist
+5. Open [Web Spotify app](https://open.spotify.com/)
+6. Create a new Playlist
 6. Add the playlist to your profile to make it available for the public (necessary that the code can access the newly created playlist)
-7. Copy/Paste Playlist ID
+7. Copy/Paste Playlist ID, while running the code you will be ask to insert the Playlist ID
       - Copy Playlist URL
       - Delete the URL part until and including the last "/"
       - Paste only the Playlist ID behind
@@ -54,12 +54,8 @@ To run the playlist generator the user needs to have an active spotify subscript
    - `pip install -r requirements.txt`  
    - `pip3 install -r requirements.txt`  
    - `conda install -r requirements.txt` 
-11. Add the key variables which where extracted from the developer project website and the newly generated playlist (previous two sections in the tutorial)
-      - clientID = "_Your clientID_"
-      - clientSecret = "_Your clientSecret_"
-      - playlistID = "_Your playlistID_"
-      - scope = "playlist-modify-public"
-12. After completion of steps 1-11 the program and the configuration is all set up and you can _run_ the program in your source-code editor.
+11. Make sure you have the information to Client ID, Client Secret and playlist ID ready (previous two sections in the tutorial)
+12. After completion of steps 1-11 the program and the configuration is all set up and you can _run_ the program in your source-code editor
 
 ## Repository
 
