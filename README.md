@@ -48,7 +48,7 @@ To run the playlist generator the user needs to have an active spotify subscript
 
 ### Running the program in python
 
-8. Download the project folder "Playlist Generator" containing the files 10k non-hits.py and requirements 
+8. Download the project folder "Playlist Generator" containing the files 220627_Spotify Code.py and requirements 
 9. Open the project folder in Visual Studio Code, PyCharm CE or a similar program
 10. Install requirements.txt in your IDE terminal
    - `pip install -r requirements.txt`  
@@ -59,7 +59,7 @@ To run the playlist generator the user needs to have an active spotify subscript
 
 ## Repository
 
-The repository shows 3 files. The "X" file gives an overall introduction and project description with step-by-step instructions. "10k non-hits.py" contains the code. "requirements.txt" contains X which are required to have running connections between the spotify developer platform, spotify and the source-code editor.
+The repository shows 3 files. The "X" file gives an overall introduction and project description with step-by-step instructions. "220627_Spotify Code.py" contains the code. "requirements.txt" contains X which are required to have running connections between the spotify developer platform, spotify and the source-code editor.
 
 ## Installations
 
