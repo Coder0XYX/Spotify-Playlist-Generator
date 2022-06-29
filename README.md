@@ -59,7 +59,8 @@ To run the playlist generator the user needs to have an active spotify subscript
 
 ## Repository
 
-The repository shows 3 files. The "X" file gives an overall introduction and project description with step-by-step instructions. "220627_Spotify Code.py" contains the code. "requirements.txt" contains X which are required to have running connections between the spotify developer platform, spotify and the source-code editor.
+The repository shows 3 files. The "README.md" file gives an overall introduction and project description with step-by-step instructions. "220220629_Spotify Code.py" contains the code. "requirements.txt" contains additional packages which are required to have running connections between the spotify developer platform, spotify and the source-code editor. Here is as well a google drive link where you can find a demo video of the Spotify Playlist Generator:
+
 
    
 We hope that you find our Spotify Playlist Generator usefull and enjoy creating randomized playlists with our tool. Enjoy listening!
