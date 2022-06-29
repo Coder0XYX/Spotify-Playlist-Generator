@@ -65,7 +65,4 @@ The repository shows 3 files. The "X" file gives an overall introduction and pro
 We hope that you find our Spotify Playlist Generator usefull and enjoy creating randomized playlists with our tool. Enjoy listening!
 
 
--------------------------
-
-Notes to delete at the end of project:
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+------------------------
