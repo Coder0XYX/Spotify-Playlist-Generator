@@ -48,7 +48,7 @@ To run the playlist generator the user needs to have an active spotify subscript
 
 ### Running the program in python
 
-8. Download the project folder "Playlist Generator" containing the files 220627_Spotify Code.py and requirements 
+8. Download the files "220220629_Spotify Code.py" and "requirements.txt" and safe them in a folder on your desktop.
 9. Open the project folder in Visual Studio Code, PyCharm CE or a similar program
 10. Install requirements.txt in your IDE terminal
    - `pip install -r requirements.txt`  
