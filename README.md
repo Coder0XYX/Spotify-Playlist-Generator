@@ -15,7 +15,7 @@ Group ID: _TBD_
 
 ## Introduction 
 
-This project documentation is related to the group project assignment of the course 7,789| 8,789: Skills: Programming with Advanced Computer Languages taught by Dr. Mario Silic. This project at the University of St. Gallen was conducted by Valentin Back (_CodingXCamp User: TBD_), Michael Schnidrig (_MichaelX_), Christina Cappelli (_chrima_) and Fabio Bianchetti (_Coder_XYX_).
+This project documentation is related to the group project assignment of the course 7,789| 8,789: Skills: Programming with Advanced Computer Languages taught by Dr. Mario Silic. This project at the University of St. Gallen was conducted by Valentin Back (PythonCharmer), Michael Schnidrig (MichaelX), Christina Cappelli (chrima) and Fabio Bianchetti (Coder_XYX).
 
 ## Project Description
 
