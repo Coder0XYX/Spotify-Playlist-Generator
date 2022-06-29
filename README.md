@@ -61,35 +61,7 @@ To run the playlist generator the user needs to have an active spotify subscript
 
 The repository shows 3 files. The "X" file gives an overall introduction and project description with step-by-step instructions. "220627_Spotify Code.py" contains the code. "requirements.txt" contains X which are required to have running connections between the spotify developer platform, spotify and the source-code editor.
 
-## Installations
-
-The following programs were used to analyse and test the code:
-
-   - [Python 3.10.5](https://www.python.org/downloads/)
-   - [PyCharm CE 2022.1.2](https://www.jetbrains.com/pycharm/download/#section=mac)
- 
-The following packages and modules are moreover required to run the code:
-
-   - TBD
    
-The following libraries are relevant to run the code:
-
-   - TBD
-
-Info: In case these packages are not installed yet, you need to write the following commands on your command prompt. If pip is not installed yet, please rund "pyhton get-pip.py" first: 
-
-MS: braucht man mMn nicht mher, da oben integriert (Punkt 10)
-
-Reihenfolge anpassen und Ergänzungen vornehmen!!!
-
-   - `pip install spotipy` or `pip3 install spotipy`  
-   - `-m pip install --upgrade pip` 
-   - `pip3 install spotipy --upgrade`  
-   - `pip3 install spotipy_random` 
-   - `python3 -m ensurepip` 
-   
-   
-
 We hope that you find our Spotify Playlist Generator usefull and enjoy creating randomized playlists with our tool. Enjoy listening!
 
 
