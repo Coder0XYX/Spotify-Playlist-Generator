@@ -6,7 +6,7 @@ Group ID: 1174
 
 ## Table of contents
 
-- Introduction
+# Introduction
 - Project Description
 - Tutorial
 - Repository
