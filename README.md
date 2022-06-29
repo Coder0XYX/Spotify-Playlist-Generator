@@ -1,6 +1,6 @@
 # Spotify-Playlist-Generator FS2022
 
-Project language: Python
+Project language: Python 
 
 Group ID: 1174 
 
@@ -21,7 +21,7 @@ This project documentation is related to the group project assignment of the cou
 
 With the raise of audio streaming services such as Spotify, users changed their music consumption habits radically. The new music streaming services allow one to listen to millions of songs without possessing hard copies of them and provide the user with huge flexibilty towards when, how and what to listen to. The swedish based company moreover operates a Developer Platform, where user can develop the platform over Spotify APIs and SDKs for JavaScript, iOS, and Android. With the increased functionality of the streaming service, end user benefit from improvements on a continuous basis,  which makes their music listening experience unique. With this opportunity set at hand, this project wants to demonstrate how such a streaming service improvement for end user can be designed and implemented.
 
-With over 82 million songs on the platform user can get quite overwhelmed when they try to find a song or create a playlist. Here, Spotify already has running algorythms where user get suggestions based on their previous listening behaviour. With our playlist generator we want to contribute to this functionalities and give the user the opportunity to create and customize a randomized playlist with a simple program written in the program language python. The objective is to fill Spotify-playlists automatically and to ask the user for initial inputs to customize his playlist towards the number of songs, the genre, and the release year.
+With over 82 million songs on the platform user can get quite overwhelmed when they try to find a song or create a playlist. Here, Spotify already has running algorithms where user get suggestions based on their previous listening behaviour. With our playlist generator we want to contribute to this functionalities and give the user the opportunity to create and customize a randomized playlist with a simple program written in the program language python. The objective is to fill Spotify-playlists automatically and to ask the user for initial inputs to customize his playlist towards the number of songs, the genre, and the release year.
 
 ## Tutorial
 
