@@ -1,9 +1,9 @@
 ### The following section contains information about the authors and the creation of the code
 """
 Course: Programming With Advanced Computer Languages
-Created by: INSERT GROUP NUMBER FROM CODINGXCAMP
-Submitted on the: INSERT SUBMISSION DATE
-Readme and other documentation accessible through the following link: INSERT GITHUB LINK
+Created by: 1174
+Submitted on the: 29th of June 2022
+Readme and other documentation accessible through the following link:https://github.com/Coder0XYX/Spotify-Playlist-Generator
 """
 
 
